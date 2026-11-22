@@ -12,8 +12,7 @@ The original datasets are not currently stored in this repository.
 Both CSV files were successfully loaded using Python.
 Permanent source references are provided in the README.
 
-The current availability of a fresh public download
-has not yet been independently confirmed.
+Link: https://pa.win.tue.nl/download_event_logs/
 
 ## 3. Data Quality Assessment
 
